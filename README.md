@@ -1,6 +1,6 @@
 ## Hello, and welcome!
 
-Hey, I'm Martijn! I create small and large programming projects for fun in my spare time. My goal is to improve my ability to write applications in Java and C#, and to explore other languages and frameworks.
+Hey, I'm Martijn! I create programming projects for fun in my spare time. My goal is to improve my ability to write applications in Java and C#, and to explore other languages and frameworks.
 
 ### My Projects
 
